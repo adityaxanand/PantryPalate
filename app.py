@@ -162,6 +162,7 @@ def show_registration_page():
         else:
             st.error("Passwords do not match. Please try again.")
 
+# Rest of your code remains unchanged
 # Main function to run the Streamlit app
 def main():
     st.title("Pantry Palate")
