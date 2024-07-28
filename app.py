@@ -97,6 +97,5 @@ def main():
         show_login_page()
     elif page == "Register":
         show_registration_page()
-
 if __name__ == "__main__":
     main()
